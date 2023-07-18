@@ -1,0 +1,20 @@
+{
+  "options": {
+    "format": {
+      "data": [
+        {
+          "label": "Format 1",
+          "id": 1
+        },
+        {
+          "label": "Format 2",
+          "id": 2
+        },
+        {
+          "label": "Format 3",
+          "id": 3
+        }
+      ]
+    }
+  }
+}
